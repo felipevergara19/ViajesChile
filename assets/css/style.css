@@ -1,3 +1,25 @@
-body {
-  background-image: url("../img/carousel1.jpg");
+.carousel-item img {
+  width: 50%; /* ajusta el tamaño según lo necesites */
+  margin: 0 auto; /* centra las imágenes horizontalmente */
 }
+
+body {
+  background-color: black;
+}
+.container.somos{
+  padding-top: 50px;
+  background-color: black;
+  color: aliceblue;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.container.destacados{
+  padding-top: 50px;
+  background-color: black;
+  color: aliceblue;
+}
+
